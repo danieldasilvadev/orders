@@ -1,0 +1,21 @@
+[debug] > Exec(publishLocal, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\user\devel\orders\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] Evaluating tasks: publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote C:\Users\user\devel\orders\target\scala-2.13\orders_2.13-0.1.0-SNAPSHOT.pom
+[info] Main Scala API documentation to C:\Users\user\devel\orders\target\scala-2.13\api...
+[info] Main Scala API documentation successful.
+[info] :: delivering :: default#orders_2.13;0.1.0-SNAPSHOT :: 0.1.0-SNAPSHOT :: integration :: Fri Jun 28 20:21:53 BRT 2024
+[info] 	delivering ivy file to C:\Users\user\devel\orders\target\scala-2.13\ivy-0.1.0-SNAPSHOT.xml
+[info] 	published orders_2.13 to C:\Users\user\.ivy2\local\default\orders_2.13\0.1.0-SNAPSHOT\poms\orders_2.13.pom
+[info] 	published orders_2.13 to C:\Users\user\.ivy2\local\default\orders_2.13\0.1.0-SNAPSHOT\jars\orders_2.13.jar
+[info] 	published orders_2.13 to C:\Users\user\.ivy2\local\default\orders_2.13\0.1.0-SNAPSHOT\srcs\orders_2.13-sources.jar
+[info] 	published orders_2.13 to C:\Users\user\.ivy2\local\default\orders_2.13\0.1.0-SNAPSHOT\docs\orders_2.13-javadoc.jar
+[info] 	published ivy to C:\Users\user\.ivy2\local\default\orders_2.13\0.1.0-SNAPSHOT\ivys\ivy.xml
+[success] Total time: 2 s, completed Jun 28, 2024 8:21:53 PM
+[debug] > Exec(idea-shell, None, None)

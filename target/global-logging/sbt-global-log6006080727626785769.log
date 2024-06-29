@@ -1,0 +1,11 @@
+[debug] > Exec(compile, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\user\devel\orders\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Jun 28, 2024 7:54:47 PM
+[debug] > Exec(idea-shell, None, None)

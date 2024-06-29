@@ -1,10 +1,10 @@
-# orders exercise
+# Order Count by Older Products
 
-## arguments:
-- first and second arguments are dates in the format "yyyy-MM-dd" or "yyyy-MM-dd HH:mm:ss"
-- third argument and beyond are optional and are the names of the columns to be displayed in the output. If no columns are specified, all columns are displayed.
+## Arguments:
+- the first and second arguments are dates in the format "yyyy-MM-dd" or "yyyy-MM-dd HH:mm:ss"
+- the third argument and beyond are optional and represent the intervals based on the createdDate of the product. If no intervals are specified, all default intervals will be displayed.
  
-## commands:
+## Commands:
 - only dates:
   - `java -jar out/artifacts/orders_jar/arorders.jar "2021-01-01" "2024-07-01" `
 

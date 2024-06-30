@@ -6,9 +6,9 @@
  
 ## Commands:
 - only dates:
-  - `java -jar out/artifacts/orders_jar/arorders.jar "2021-01-01" "2024-07-01" `
+  - `java -jar out/artifacts/orders_jar/orders.jar "2021-01-01" "2024-07-01" `
 
 - passing dates and intervals:
-  - `java -jar out/artifacts/orders_jar/arorders.jar "2021-01-01" "2024-07-01" "1-3"`
-  - `java -jar out/artifacts/orders_jar/arorders.jar "2021-01-01" "2024-07-01" "1-3" "4-7" "7-12" ">12"`
+  - `java -jar out/artifacts/orders_jar/orders.jar "2021-01-01" "2024-07-01" "1-3"`
+  - `java -jar out/artifacts/orders_jar/orders.jar "2021-01-01" "2024-07-01" "1-3" "4-7" "7-12" ">12"`
  
